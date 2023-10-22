@@ -12,6 +12,6 @@
 
 <p >Since my university years I have had a dream to realize myself in something really useful, and ... I started programming. Writing projects, implementing tricky logic, optimizing alogithms - this is what brings me joy. Apart from programming I love hanging out with my friends and new acquaintances. My hobbies include watching comedian shows, learning European languages, expanding my music collection, and playing volleyball.</p>
 
-- 💻 I’m currently (and previously have been) learning and working on Java projects
+- 💻 Working on Java related projects
 
 - ✉ How to reach me: vbb.correspondence@outlook.com
